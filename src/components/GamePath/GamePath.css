@@ -1,0 +1,7 @@
+.GamePath {
+    max-width: 307px;
+    max-height: 307px;
+    background-color: green;
+    display:flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,21 @@
+.Square {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.X {
+    background-image: url("https://www.freeiconspng.com/uploads/black-x-png-32.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    pointer-events: none;
+}
+
+.O {
+    background-image: url("https://www.freeiconspng.com/thumbs/letter-o-icon-png/letter-o-icon-png-8.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    pointer-events: none;
+}
